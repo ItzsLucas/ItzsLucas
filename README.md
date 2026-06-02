@@ -74,14 +74,15 @@ Chamo-me Lucas Rocha, tenho 16 anos e sou de Portugal. Estou a tirar o curso té
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ItzsLucas=anuraghazra&show_icons=true)" 
+    src="https://github-readme-stats.vercel.app/api?username=ItzsLucas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?ItzsLucas=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzsLucas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
+
