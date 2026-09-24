@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?ItzsLucas=ItzsLucas&style=flat-square&color=2c5364&label=VISITAS" alt="visitas" />
+<img src="https://komarev.com/ghpvc/?username=ItzsLucas&style=flat-square&color=2c5364&label=VISITAS" alt="visitas" />
 <img src="https://img.shields.io/github/followers/ItzsLucas?style=flat-square&color=2c5364&label=SEGUIDORES" alt="seguidores" />
 
 </div>
@@ -20,10 +20,11 @@
 ## Sobre mim
 
 ```text
-> nome        : Lucas Rocha
+> nome        : O Teu Nome
 > localização : Porto, Portugal
 > foco        : Desenvolvimento web / software
-> a aprender  : (ex: JavaScript, Java, Docker)
+> a aprender  : (ex: TypeScript, Rust, Docker)
+> curiosidade : (uma frase que te descreva)
 ```
 
 Escreve aqui um parágrafo curto sobre ti: o que te motiva, no que estás a trabalhar e o tipo de projetos em que gostavas de colaborar.
@@ -44,8 +45,8 @@ Escreve aqui um parágrafo curto sobre ti: o que te motiva, no que estás a trab
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?ItzsLucas=ItzsLucas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?ItzsLucas=ItzsLucas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="linguagens" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ItzsLucas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzsLucas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="linguagens" />
 
 <br/>
 
@@ -60,10 +61,10 @@ Escreve aqui um parágrafo curto sobre ti: o que te motiva, no que estás a trab
 <div align="center">
 
 <a href="https://github.com/ItzsLucas/PROJETO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?ItzsLucas=ItzsLucas&repo=PROJETO-1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="projeto 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItzsLucas&repo=PROJETO-1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="projeto 1" />
 </a>
 <a href="https://github.com/ItzsLucas/PROJETO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?ItzsLucas=ItzsLucas&repo=PROJETO-2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="projeto 2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItzsLucas&repo=PROJETO-2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="projeto 2" />
 </a>
 
 </div>
