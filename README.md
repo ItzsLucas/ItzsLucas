@@ -4,14 +4,14 @@
 
 <div align="center">
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/ItzsLucas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+bem-vindo+ao+meu+perfil;Transformo+ideias+em+código;Sempre+a+aprender+algo+novo" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=2c5364&label=VISITAS" alt="visitas" />
-<img src="https://img.shields.io/github/followers/USERNAME?style=flat-square&color=2c5364&label=SEGUIDORES" alt="seguidores" />
+<img src="https://komarev.com/ghpvc/?ItzsLucas=ItzsLucas&style=flat-square&color=2c5364&label=VISITAS" alt="visitas" />
+<img src="https://img.shields.io/github/followers/ItzsLucas?style=flat-square&color=2c5364&label=SEGUIDORES" alt="seguidores" />
 
 </div>
 
@@ -44,12 +44,12 @@ Escreve aqui um parágrafo curto sobre ti: o que te motiva, no que estás a trab
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="linguagens" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?ItzsLucas=ItzsLucas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?ItzsLucas=ItzsLucas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="linguagens" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=ItzsLucas&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 
 </div>
 
@@ -59,11 +59,11 @@ Escreve aqui um parágrafo curto sobre ti: o que te motiva, no que estás a trab
 
 <div align="center">
 
-<a href="https://github.com/USERNAME/PROJETO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJETO-1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="projeto 1" />
+<a href="https://github.com/ItzsLucas/PROJETO-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?ItzsLucas=ItzsLucas&repo=PROJETO-1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="projeto 1" />
 </a>
-<a href="https://github.com/USERNAME/PROJETO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJETO-2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="projeto 2" />
+<a href="https://github.com/ItzsLucas/PROJETO-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?ItzsLucas=ItzsLucas&repo=PROJETO-2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="projeto 2" />
 </a>
 
 </div>
